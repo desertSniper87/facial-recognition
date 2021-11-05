@@ -6,11 +6,37 @@
   <component name="ChangeListManager">
     <list default="true" id="da40cd96-6e7d-42ae-959b-123d36bb91ef" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/insightface/recognition/arcface_mxnet/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insightface/recognition/arcface_torch/embedding_comparison_torch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insightface/recognition/arcface_torch/ms1mv3_arcface_r50_fp16/backbone.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insightface/recognition/arcface_torch/ms1mv3_arcface_r50_fp16/ms1mv3_arcface_r50_fp16/ijbc.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insightface/recognition/arcface_torch/ms1mv3_arcface_r50_fp16/ms1mv3_arcface_r50_fp16/ijbc.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insightface/recognition/arcface_torch/ms1mv3_arcface_r50_fp16/rank_0_softmax_weight.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insightface/recognition/arcface_torch/ms1mv3_arcface_r50_fp16/rank_0_softmax_weight_mom.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insightface/recognition/arcface_torch/ms1mv3_arcface_r50_fp16/rank_1_softmax_weight.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insightface/recognition/arcface_torch/ms1mv3_arcface_r50_fp16/rank_1_softmax_weight_mom.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insightface/recognition/arcface_torch/ms1mv3_arcface_r50_fp16/rank_2_softmax_weight.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insightface/recognition/arcface_torch/ms1mv3_arcface_r50_fp16/rank_2_softmax_weight_mom.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insightface/recognition/arcface_torch/ms1mv3_arcface_r50_fp16/rank_3_softmax_weight.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insightface/recognition/arcface_torch/ms1mv3_arcface_r50_fp16/rank_3_softmax_weight_mom.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insightface/recognition/arcface_torch/ms1mv3_arcface_r50_fp16/rank_4_softmax_weight.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insightface/recognition/arcface_torch/ms1mv3_arcface_r50_fp16/rank_4_softmax_weight_mom.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insightface/recognition/arcface_torch/ms1mv3_arcface_r50_fp16/rank_5_softmax_weight.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insightface/recognition/arcface_torch/ms1mv3_arcface_r50_fp16/rank_5_softmax_weight_mom.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insightface/recognition/arcface_torch/ms1mv3_arcface_r50_fp16/rank_6_softmax_weight.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insightface/recognition/arcface_torch/ms1mv3_arcface_r50_fp16/rank_6_softmax_weight_mom.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insightface/recognition/arcface_torch/ms1mv3_arcface_r50_fp16/rank_7_softmax_weight.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insightface/recognition/arcface_torch/ms1mv3_arcface_r50_fp16/rank_7_softmax_weight_mom.pt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/insightface/recognition/datasets/faces_emore/property" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/insightface/recognition/datasets/faces_emore/train.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/insightface/recognition/datasets/faces_emore/train.idx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/insightface/recognition/datasets/faces_emore/train.rec" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/insightface/recognition/datasets/faces_emore/val.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mxnet_transfer/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/siamese_pytorch.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OMFR/scripts/insight_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/OMFR/scripts/insight_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/insightface" beforeDir="false" afterPath="$PROJECT_DIR$/insightface" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/insightface/recognition/arcface_mxnet/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/insightface/recognition/arcface_mxnet/train.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
@@ -23,6 +49,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -37,6 +64,12 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/env/lib/python3.8/site-packages/insightface/app/face_analysis.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/env/lib/python3.8/site-packages/insightface/model_zoo/arcface_onnx.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/env/lib/python3.8/site-packages/insightface/model_zoo/model_zoo.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/env/lib/python3.8/site-packages/insightface/app/__init__.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectId" id="20GIxcKSu0MqnYefrSpAuwOTzZE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -47,49 +80,30 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/insightface/recognition/arcface_mxnet" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/insightface/recognition/arcface_torch" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.maddyhome.idea.vim.ui.VimEmulationConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/insightface/recognition/arcface_mxnet" />
+      <recent name="$PROJECT_DIR$/insightface/recognition/arcface_torch" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/env/lib/python3.8/site-packages/insightface/data/images" />
+      <recent name="$PROJECT_DIR$/insightface/recognition/arcface_mxnet" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/insightface/recognition/arcface_torch/facenet-pytorch/models" />
+      <recent name="$PROJECT_DIR$/insightface/recognition/arcface_torch/utils" />
+      <recent name="$PROJECT_DIR$/insightface/recognition/arcface_torch" />
+      <recent name="$PROJECT_DIR$/insightface/recognition" />
       <recent name="$PROJECT_DIR$/insightface/recognition/datasets/faces_emore" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/samples" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ArcFace with LResNet100E-IR (emore)">
-    <configuration name="ArcFace with LResNet100E-IR (emore)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="face_detection" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="CUDA_VISIBLE_DEVICES" value="" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/insightface/recognition/arcface_mxnet" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/insightface/recognition/arcface_mxnet/train.py" />
-      <option name="PARAMETERS" value="--network r100 --loss arcface --dataset emore" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="scrfd_person" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.eval_ijbc">
+    <configuration name="embedding_comparison_torch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="face_detection" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,12 +111,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/insightface/examples/person_detection" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/insightface/recognition/arcface_torch" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/insightface/examples/person_detection/scrfd_person.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/insightface/recognition/arcface_torch/embedding_comparison_torch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,14 +125,108 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="eval_ijbc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="face_detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/insightface/recognition/arcface_torch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/insightface/recognition/arcface_torch/eval_ijbc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="insight_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="face_detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OMFR/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OMFR/scripts/insight_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="face_detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mxnet_transfer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mxnet_transfer/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="verification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="face_detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/insightface/recognition/arcface_mxnet" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/insightface/recognition/arcface_mxnet/verification.py" />
+      <option name="PARAMETERS" value="--model $PROJECT_DIR$/../.insightface/models/r100.onnx" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.scrfd_person" />
-      <item itemvalue="Python.ArcFace with LResNet100E-IR (emore)" />
+      <item itemvalue="Python.insight_test" />
+      <item itemvalue="Python.verification" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.embedding_comparison_torch" />
+      <item itemvalue="Python.eval_ijbc" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ArcFace with LResNet100E-IR (emore)" />
-        <item itemvalue="Python.scrfd_person" />
+        <item itemvalue="Python.eval_ijbc" />
+        <item itemvalue="Python.embedding_comparison_torch" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.insight_test" />
+        <item itemvalue="Python.verification" />
       </list>
     </recent_temporary>
   </component>
@@ -136,6 +244,13 @@
       <workItem from="1635747239463" duration="242000" />
       <workItem from="1635747533435" duration="1938000" />
       <workItem from="1635758434014" duration="8766000" />
+      <workItem from="1635825899175" duration="337000" />
+      <workItem from="1635827680456" duration="12029000" />
+      <workItem from="1635918769433" duration="4535000" />
+      <workItem from="1635936816447" duration="2208000" />
+      <workItem from="1636022648633" duration="8802000" />
+      <workItem from="1636111745243" duration="203000" />
+      <workItem from="1636113184000" duration="9664000" />
     </task>
     <servers />
   </component>
@@ -155,11 +270,37 @@
           <line>484</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/env/lib/python3.8/site-packages/insightface/data/image.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/OMFR/scripts/insight_test.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/env/lib/python3.8/site-packages/insightface/app/face_analysis.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/insightface/recognition/arcface_torch/embedding_comparison_torch.py</url>
+          <line>327</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/face_detection$scrfd_person.coverage" NAME="scrfd_person Coverage Results" MODIFIED="1635764658367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/insightface/examples/person_detection" />
+    <SUITE FILE_PATH="coverage/face_detection$embedding_comparison_torch.coverage" NAME="embedding_comparison_torch Coverage Results" MODIFIED="1636122510959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/insightface/recognition/arcface_torch" />
+    <SUITE FILE_PATH="coverage/face_detection$eval_ijbc.coverage" NAME="eval_ijbc Coverage Results" MODIFIED="1636122554691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/insightface/recognition/arcface_torch" />
+    <SUITE FILE_PATH="coverage/face_detection$insight_test.coverage" NAME="insight_test Coverage Results" MODIFIED="1636022993276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OMFR/scripts" />
     <SUITE FILE_PATH="coverage/face_detection$train.coverage" NAME="ArcFace with LResNet100E-IR (emore) Coverage Results" MODIFIED="1635768047659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/insightface/recognition/arcface_mxnet" />
+    <SUITE FILE_PATH="coverage/face_detection$ArcFace_with_LResNet100E_IR__emore_.coverage" NAME="ArcFace with LResNet100E-IR (emore) Coverage Results" MODIFIED="1635826128451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/insightface/recognition/arcface_mxnet" />
+    <SUITE FILE_PATH="coverage/face_detection$verification.coverage" NAME="verification Coverage Results" MODIFIED="1635834790610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/insightface/recognition/arcface_mxnet" />
+    <SUITE FILE_PATH="coverage/face_detection$main.coverage" NAME="main Coverage Results" MODIFIED="1636026095013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mxnet_transfer" />
   </component>
 </project>
