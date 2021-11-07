@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/OMFR" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/arcface-torch-unofficial" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/docker" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/facenet-pytorch" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/insightface" vcs="Git" />
